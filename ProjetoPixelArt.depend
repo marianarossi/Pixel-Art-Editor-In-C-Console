@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1725578435 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\main.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+	"pixelArt.h"
+	<conio.h>
+
+1724991171 d:\users\mariana\utfpr\estruturas 2\projetopixelart\colors.h
+
+1725568902 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\mario.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725488263 source:d:\users\mariana\utfpr\estruturas 2\testecores.c
+	<stdio.h>
+
+1725491462 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\colortest.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725580504 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\pixelart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"COLORS.h"
+	"pixelArt.h"
+
+1725490680 d:\users\mariana\utfpr\estruturas 2\projetopixelart\mario.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725491315 d:\users\mariana\utfpr\estruturas 2\projetopixelart\colortest.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725579063 d:\users\mariana\utfpr\estruturas 2\projetopixelart\pixelart.h
+
+1725580035 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\luigi.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725548065 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\btree.c
+
+1725577671 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\grafopixelart.c
+	<stdio.h>
+	<stdlib.h>
+	"pixelArt.h"
+
+1725569793 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\toad.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
+1725577594 source:d:\users\mariana\utfpr\estruturas 2\projetopixelart\pokeball.c
+	<stdio.h>
+	<stdlib.h>
+	"COLORS.h"
+
